@@ -1,5 +1,5 @@
 # RLBotPythonExample
-Example of a python bot using the RLBot framework
+Example of a python bot using the RLBot framework *with plans to implement neural network*
 
 ## Installation
 
